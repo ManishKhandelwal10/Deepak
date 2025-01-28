@@ -1,0 +1,22 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 91b32c0..6a087be 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1 +1 @@[m
+[31m-//this is old file [m
+\ No newline at end of file[m
+[32m+[m[32m//this is new file[m[41m [m
+\ No newline at end of file[m
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex cd78c79..5de3cc1 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -1,4 +1,3 @@[m
+ # Mani[m
+[31m-//new comment[m
+[31m-[m
+[31m-//new file [m
+\ No newline at end of file[m
+[32m+[m[32mhi i am Ravi[m
+[32m+[m[32mthis is new file[m[41m [m
+\ No newline at end of file[m
